@@ -1,7 +1,7 @@
 This is the test from master/local system
 
-
+<<<<<<< HEAD
 This is the test from master/local system GITHUB
-
+=======
 This is the test from master/local system - branch abc
-
+>>>>>>> 6a5d4b9... Commit from branch abc
